@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Its-elango/Its-elango** is a ✨ _
+**I am Elangovan a passionate Front-end Designer** 
 
 - 🌱 I’m currently learning ...
 
