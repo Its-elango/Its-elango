@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=its-elango.its-elango)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=its-elango&count_private=true&show_icons=true&hide=contribs)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-elango&layout=compact)
