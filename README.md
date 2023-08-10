@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am Elangovan a passionate Front-end Designer** 
+**I am Elangovan a passionate software developer** 
 
 - 🌱 I’m currently learning ...
 
