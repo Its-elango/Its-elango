@@ -17,9 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-elango&show_icons=true&locale=en" alt="its-elango" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-elango&" alt="its-elango" /></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-elango)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-elango&" alt="its-elango" /><\p>
 
 <a href="mailto:elangomano17@gmail.com">![elangomano17@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
