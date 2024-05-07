@@ -18,7 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-elango&show_icons=true&locale=en" alt="its-elango" /></p>
 
 
-<a href="mailto:elangomano17@gmail.com">![elangomano17@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-<a href="<https://www.linkedin.com/in/elangovan2001>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
